@@ -8,16 +8,16 @@
 // ios: PermissionGroupCalendar
 // Info.plist: NSCalendarsUsageDescription
 // dart: PermissionGroup.calendar
-#ifndef PERMISSION_EVENTS
-    #define PERMISSION_EVENTS 1
-#endif
+//#ifndef PERMISSION_EVENTS
+//    #define PERMISSION_EVENTS 1
+//#endif
 
 // ios: PermissionGroupReminders
 // Info.plist: NSRemindersUsageDescription
 // dart: PermissionGroup.reminders
-#ifndef PERMISSION_REMINDERS
-    #define PERMISSION_REMINDERS 1
-#endif
+//#ifndef PERMISSION_REMINDERS
+//    #define PERMISSION_REMINDERS 1
+//#endif
 
 // ios: PermissionGroupContacts
 // Info.plist: NSContactsUsageDescription
@@ -43,9 +43,9 @@
 // ios: PermissionGroupSpeech
 // Info.plist: NSSpeechRecognitionUsageDescription
 // dart: PermissionGroup.speech
-#ifndef PERMISSION_SPEECH_RECOGNIZER
-    #define PERMISSION_SPEECH_RECOGNIZER 1
-#endif
+//#ifndef PERMISSION_SPEECH_RECOGNIZER
+//    #define PERMISSION_SPEECH_RECOGNIZER 1
+//#endif
 
 // ios: PermissionGroupPhotos
 // Info.plist: NSPhotoLibraryUsageDescription
@@ -70,9 +70,9 @@
 // ios: PermissionGroupMediaLibrary
 // Info.plist: [NSAppleMusicUsageDescription, kTCCServiceMediaLibrary]
 // dart: PermissionGroup.mediaLibrary
-#ifndef PERMISSION_MEDIA_LIBRARY
-    #define PERMISSION_MEDIA_LIBRARY 1
-#endif
+//#ifndef PERMISSION_MEDIA_LIBRARY
+//    #define PERMISSION_MEDIA_LIBRARY 1
+//#endif
 
 // ios: PermissionGroupSensors
 // Info.plist: NSMotionUsageDescription
